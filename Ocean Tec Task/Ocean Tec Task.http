@@ -1,0 +1,6 @@
+@Ocean_Tec_Task_HostAddress = http://localhost:5153
+
+GET {{Ocean_Tec_Task_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

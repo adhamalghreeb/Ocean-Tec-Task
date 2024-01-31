@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ocean Tec Task", "Ocean Tec Task\Ocean Tec Task.csproj", "{93546032-88BB-43A8-BF51-20985FF57B78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93546032-88BB-43A8-BF51-20985FF57B78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93546032-88BB-43A8-BF51-20985FF57B78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93546032-88BB-43A8-BF51-20985FF57B78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93546032-88BB-43A8-BF51-20985FF57B78}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB9DAAE0-ED54-4D1E-9972-E1FFCE5F50FA}
+	EndGlobalSection
+EndGlobal
